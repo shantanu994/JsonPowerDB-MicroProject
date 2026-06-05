@@ -6,7 +6,7 @@ var dbName = "SCHOOL-DB";
 var relName = "STUDENT-TABLE";
 
 // i stored my connection token here
-var connToken = "YOUR-CONNECTION-TOKEN-HERE";
+var connToken = "90935198|-31949240309766556|90958784";
 
 // when page loads, setup the form
 $(document).ready(function() {

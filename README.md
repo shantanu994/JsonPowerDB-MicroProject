@@ -17,7 +17,7 @@ A micro project built during the Login2Xplore internship selection process.
 
 ## Description
 
-This project demonstrates basic database operations using JsonPowerDB (JPDB) REST APIs. It includes a simple web form that performs CRUD operations (Create, Read, Update, Delete) directly connected to JsonPowerDB without any backend server.
+This project demonstrates basic database operations using JsonPowerDB (JPDB) REST APIs. It includes a simple web form that performs Create, Read, and Update operations directly connected to JsonPowerDB without any backend server.
 
 ## Benefits of Using JsonPowerDB
 
@@ -32,7 +32,6 @@ This project demonstrates basic database operations using JsonPowerDB (JPDB) RES
 - Save form data to JsonPowerDB
 - Retrieve existing records by key
 - Update stored records
-- Delete records
 - Client-side validation before requests
 
 ## Examples of Use
